@@ -1,6 +1,6 @@
 # Dashboard Starter React / Next
 
-Starter project built on React + Next for landing pages and Web3 projects.
+Starter project built on React + Next for landing pages and Web3 projects.templates for web3
 
 ## General Stack
 
