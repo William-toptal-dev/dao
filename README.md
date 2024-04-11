@@ -4,7 +4,7 @@ Starter project built on React + Next for landing pages and Web3 projects.
 
 ## General Stack
 
-- NextJS 13 / React
+- T3 stack
 - TypeScript
 - Conventional commits
 - Eslint
